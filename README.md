@@ -80,19 +80,19 @@ No se necesitan librerías externas para el funcionamiento del juego.
 Primero se debe guardar el código en un archivo, por ejemplo:
 
 ``` text
-juego_cerillas.py
+main.py
 ```
 
 Después, desde la terminal, se ejecuta:
 
 ``` bash
-python3 juego_cerillas.py
+python3 main.py
 ```
 
 En algunos equipos también puede funcionar con:
 
 ``` bash
-python juego_cerillas.py
+python main.py
 ```
 
 Al ejecutarlo debería aparecer la ventana del juego.
